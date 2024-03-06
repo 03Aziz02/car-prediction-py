@@ -12,6 +12,7 @@ pytz
 scikit-learn==1.0.2
 scipy
 six
+sklearn==0.0.post7
 threadpoolctl
 Werkzeug
 gunicorn
